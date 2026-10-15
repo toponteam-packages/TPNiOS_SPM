@@ -13,8 +13,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "AnyThinkSDK",
-            url: "https://topon-sdk-release.oss-accelerate.aliyuncs.com/TPN_Release/iosnetwork_2/AnyThinkiOS/6.5.83/AnyThinkiOS.zip",
-            checksum: "63e3be9f2599e96dd0cd6c6eda6ae7549d3ff2bdb7b4baa553a664bb71efd2f5"
+            url: "https://topon-sdk-release.oss-accelerate.aliyuncs.com/TPN_Release/iosnetwork_2/AnyThinkSDK/6.5.91/AnyThinkSDK-6.5.91.zip",
+            checksum: "65bef5682711c80240a6c62bd1e27caf85dce493afa907cc053a471852f06387"
         )
     ]
 )
